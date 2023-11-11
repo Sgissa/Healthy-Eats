@@ -1,0 +1,31 @@
+.gallery{
+    /* background-color: aquamarine; */
+    width: 80%;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.galHolder{
+    /* background-color: blue; */
+    height: 100%;
+    width: 30%;
+    background-size: cover;
+}
+
+.galHolder2{
+    background-color: blue;
+    height: 100%;
+    width: 30%;
+    background-size: cover;
+}
+
+.galHolder3{
+    background-color: blue;
+    height: 100%;
+    width: 30%;
+    background-size: cover;
+}

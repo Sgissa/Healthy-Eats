@@ -1,0 +1,24 @@
+{
+  "name": "23fall-n320-getting-started",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.1"
+  },
+  "description": "Live Link:[https://23fall-n320-getting-started-ten.vercel.app/] (https://23fall-n320-getting-started-ten.vercel.app/)",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+}

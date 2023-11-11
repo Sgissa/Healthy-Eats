@@ -1,0 +1,15 @@
+.bigRedFont {
+  color: bisque;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.blueFont {
+  color: blue;
+}
+
+.headText{
+  
+}

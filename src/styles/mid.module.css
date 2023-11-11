@@ -1,0 +1,17 @@
+.title{
+    color: bisque;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;   
+    
+
+}
+
+.reason{
+/* background-color: aqua; */
+width: 50%;
+margin: 0 auto;
+margin-top: 30px;
+font-size: 20px;
+}
